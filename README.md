@@ -1,4 +1,4 @@
-# Hello, I am Louise Andrea Tatoy! 👋
+# Hello! I am Louise Andrea Tatoy! 👋
 
 ## About Me
 
