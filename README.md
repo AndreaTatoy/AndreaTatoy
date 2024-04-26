@@ -10,7 +10,7 @@ I am Louise Andrea Tatoy, a passionate coder with strong skills in database mana
 
 - **BS Computer Science**
   [St. Clare College](https://stclareonline.com)
-  August 2022 - June 2023
+  August 2022 - June 2023 <br>
   [New Era University](https://www.neu.edu.ph/)
   August 2023 - Present
 
