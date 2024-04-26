@@ -1,4 +1,4 @@
-# Hello! I am Louise Andrea Tatoy! 👋
+# Hello there! 👋
 
 ![AndreaTatoy](AndreaTatoy.png)
 
@@ -9,6 +9,8 @@ I am Louise Andrea Tatoy, a passionate coder with strong skills in database mana
 ## Education
 
 - **BS Computer Science**
+  [St. Clare College](https://stclareonline.com)
+  August 2022 - June 2023
   [New Era University](https://www.neu.edu.ph/)
   August 2023 - Present
 
@@ -30,8 +32,10 @@ I am Louise Andrea Tatoy, a passionate coder with strong skills in database mana
 
 - **Programming:** Java
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Visual Studio, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Visual Studio, Visual Studio Code, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with Me
 
 - Email: tatoylouise0@gmail.com
+- Facebook: Louise Andrea Tatoy
+- Instagram: @drealouise_
