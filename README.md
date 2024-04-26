@@ -1,5 +1,7 @@
 # Hello! I am Louise Andrea Tatoy! 👋
 
+![AndreaTatoy](AndreaTatoy.png)
+
 ## About Me
 
 I am Louise Andrea Tatoy, a passionate coder with strong skills in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program, and I've been thriving ever since.
