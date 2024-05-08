@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Louise Andrea Tatoy, a passionate coder with strong skills in database management. I enjoy tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program, and I've been thriving ever since.
+I am Louise Andrea Tatoy, a passionate coder with a flair for design and a knack for creating detailed visualizations. My journey into coding started with a BS in Computer Science, where I discovered my love for front-end development. I particularly enjoy the creative process of designing user interfaces and the analytical aspect of visualizing complex systems through diagrams. My goal is to bridge the gap between design and development, crafting solutions that are both visually appealing and technically strong.
 
 ## Education
 
@@ -30,7 +30,7 @@ I am Louise Andrea Tatoy, a passionate coder with strong skills in database mana
 
 ## Skill Sets
 
-- **Programming:** Java
+- **Programming:** Java, SQL, C#
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Visual Studio, Visual Studio Code, Jaspersoft Studio, Eclipse, HTML
 
