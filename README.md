@@ -30,12 +30,13 @@ I am Louise Andrea Tatoy, a passionate coder with a flair for design and a knack
 
 ## Skill Sets
 
-- **Programming:** Java, SQL, C#
+- **Programming:** Java, SQL, C#, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, React
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Visual Studio, Visual Studio Code, Jaspersoft Studio, Eclipse, HTML
+- **Data Visualization:** Power BI
+- **UI/UX Design:** Figma
+- **Tools:** Visual Studio, Visual Studio Code
 
 ## Connect with Me
 
 - Email: tatoylouise0@gmail.com
-- Facebook: Louise Andrea Tatoy
-- Instagram: @drealouise_
