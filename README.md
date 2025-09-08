@@ -1,21 +1,23 @@
 <h1 align="center"> 💫 Hello! I am Andrea! 👋🏻</h1>
 
-![pixel art](pixel_drea.png)
+![pixel art](pixel_drea_cropped.png)
 
 ##
 
-<h3> A Little Bit About Me </h3> 
+<h3 align="left"> A Little Bit About Me </h3>
 
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlzNnR4eHNkYmxqNzYyeWF5MXRvN2E0enlhM2tlOXVwdXlqengzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2NYPupxBORY8upRLh9/giphy.gif" />
 
-🌟 My full name is Louise Andrea Tatoy. You can call me Drea.
+🌟 My full name is Louise Andrea Tatoy. I like to go by Drea.
 
 🌠 I am currently pursuing a Bachelor of Science in Computer Science at New Era University.
 
-🔭 I gravitate more towards front-end development as I enjoy it more, but I also have experiences in back-end development.
+🔭 I gravitate more towards front-end development as I enjoy it more than back-end development.
 
-✨ I enjoy exploring new things. 
+✨ I enjoy exploring new things.
+<br clear="right" />
 
-##  
+##
 
 <div align="center">
 <h3 > 💻 Languages & Tools I Have Used </h3>
@@ -75,16 +77,20 @@
 <br> 
 
 <div align="center">
-  
+
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
-
-[St. Clare College](https://stclareonline.com)  
-  August 2022 - June 2023  
+**Bachelor of Science in Computer Science**  
   
+[St. Clare College](https://stclareonline.com)  
+August 2022 - June 2023 <br>  
+
 [New Era University](https://www.neu.edu.ph/)  
-  August 2023 - Present
+August 2023 - Present <br>
+
+<img align="center" height="80" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhkdDdocWNmMWJ0NGNnNWQwMjBjNG9ldXFtejh4eGpldzI4MnZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0FB4a2z6B3ooAUIQXS/giphy.gif" />
+
+<br>
 
 <br>
 
@@ -114,8 +120,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 <br>
+<p>&nbsp;</p>
 
-### 🌐 Connect with Me
+<img height="100" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ0cG9laGp5cW8wbzRubndnc2NiNGtybTR3dG9sb2h2cDMydG51cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eE9YdAlv4OVcM1TDdh/giphy.gif"  />
+
+<h3>🌐 Connect with Me</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/louise.tatoy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drealouise_) 
@@ -123,3 +132,12 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tatoylouise0@gmail.com) 
 
 </div>
+
+<br>
+<p>&nbsp;</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreaTatoy/AndreaTatoy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreaTatoy/AndreaTatoy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreaTatoy/AndreaTatoy/output/pacman-contribution-graph.svg">
+</picture>
