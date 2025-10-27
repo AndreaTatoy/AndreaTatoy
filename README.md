@@ -1,6 +1,11 @@
 <h1 align="center"> 💫 Hello! I am Andrea! 👋🏻</h1>
 
-![pixel art](pixel_drea_cropped.png)
+<!-- ![pixel art](pixel_drea_cropped.png) -->
+
+<!-- <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGo5MWVrczV1d292NnQ4b2NwZmk0eWk2YTdrcWI2ZTFkajBub2Q0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mrSGyYh9LThe/giphy.gif" /> -->
+<div align="center">
+<img width="80%" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmY3b3V2dXJhajhvdzdscnI4dGlsZGl1ZmMwaHdqaHhiNzBmNWNsbyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PQaRWf6SOtCAU/giphy.gif" />
+</div>
 
 ##
 
@@ -12,7 +17,9 @@
 
 🌠 I am currently pursuing a Bachelor of Science in Computer Science at New Era University.
 
-🔭 I gravitate more towards front-end development as I enjoy it more than back-end development.
+🔭 My interest lies heavily in the visual and user-facing aspects of product creation, focusing on UI/UX and designing intuitive interfaces.
+
+🌙 I choose to apply this passion through front-end development, which allows me to implement those design decisions in code rather than back-end development. Although I prefer front-end, I also have experience in back-end.
 
 ✨ I enjoy exploring new things.
 <br clear="right" />
