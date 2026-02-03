@@ -25,6 +25,8 @@
 
 ---
 
+<br>
+
 <div align="center">
   
 ## 🔄 Current Tech Stack
@@ -44,6 +46,12 @@
 <br>
 
 <img height="100" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ0cG9laGp5cW8wbzRubndnc2NiNGtybTR3dG9sb2h2cDMydG51cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eE9YdAlv4OVcM1TDdh/giphy.gif"  />
+
+<br>
+
+<br>
+
+<br>
 
 ---
 
