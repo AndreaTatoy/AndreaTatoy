@@ -7,6 +7,8 @@
 
 ---
 
+<br>
+
 <h3 align="left"> About Me </h3>
 
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlzNnR4eHNkYmxqNzYyeWF5MXRvN2E0enlhM2tlOXVwdXlqengzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2NYPupxBORY8upRLh9/giphy.gif" />
